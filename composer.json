@@ -1,7 +1,7 @@
 {
-    "name": "overtrue/laravel-wechat",
-    "description": "微信 SDK for Laravel",
-    "keywords": ["wechat", "weixin","laravel", "sdk"],
+    "name": "liqunx/lara-vue-wechat",
+    "description": "微信 SDK for Laravel-Vue架构",
+    "keywords": ["wechat", "weixin","laravel", "vue", "sdk"],
     "require": {
         "overtrue/wechat": "~3.0"
     },
